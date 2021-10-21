@@ -161,4 +161,4 @@ At this time, there are no known bugs.
 ## Authors
 Ojo Timilehin [Timex19](https://github.com/Timex19) 
 
-Ifeoluwa Lawal [GitHub](https://github.com/Ifeoluwa-Lawal)
+Ifeoluwa Lawal [Ifeoluwa](https://github.com/Ifeoluwa-Lawal)
