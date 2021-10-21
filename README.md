@@ -159,6 +159,6 @@ For more info about this project you can run the man page:
 At this time, there are no known bugs.
 
 ## Authors
-Ojo Timilehin [GitHub](https://github.com/Timex19) 
+Ojo Timilehin [Timex19](https://github.com/Timex19) 
 
-Ifeoluwa Lawal 
+Ifeoluwa Lawal [GitHub](https://github.com/Ifeoluwa-Lawal)
